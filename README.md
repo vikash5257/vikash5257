@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @vikash5257
+- 👋 Hi, I’m @vikashyadav
 - 👀 I’m interested in web deploment
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on apple
 - 📫 How to reach me get software devloper
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i am fat
+- ⚡ Fun fact: is i am alive
+- 
 - 
 
 <!---
